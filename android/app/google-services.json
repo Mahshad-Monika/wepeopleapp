@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057241992711",
+    "firebase_url": "https://wepeople-709eb.firebaseio.com",
+    "project_id": "wepeople-709eb",
+    "storage_bucket": "wepeople-709eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057241992711:android:6399f56c2b058c3fb4e4a2",
+        "android_client_info": {
+          "package_name": "mahshad.wepeopleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057241992711-bqojhjf37buo9a9lu653hot0bbi54bvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vqMLXOsmi_GMppgTViR2qwJG1CD0YlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057241992711-bqojhjf37buo9a9lu653hot0bbi54bvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
